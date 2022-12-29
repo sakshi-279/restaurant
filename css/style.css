@@ -1,0 +1,76 @@
+.my-sec
+{
+    height: 350px;
+    background-image: url('../images/hero_1.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.my-sec1
+{
+    height: 150px;
+    background-image: url('../images/hero_2.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+} 
+.my-sec-inner
+{
+    /*background-color:rgb(171 157 157 /50%);*/
+    background-color: rgba(255,0,0,0.5); 
+    /*opacity: 0.8;*/
+    color: white;
+
+
+}
+.smi
+{
+    list-style-type:none;
+
+}
+.smi li
+{
+    display: inline-block;
+    background-color: white;
+    color: red;
+    padding: 10px 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.header
+{
+    height: 50px;
+    background: linear-gradient(blue,aqua);
+    justify-content: center;
+    align:center;
+    clip-path: polygon(0% 0%, 100% 0%, 96% 100%, 0% 100%);
+   
+    
+}
+
+.header-li
+{
+    list-style-type: none;
+}
+
+.header-li li
+{
+    display: inline-block;
+}
+
+.header-link
+{
+    list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
